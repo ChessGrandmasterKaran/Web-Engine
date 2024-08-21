@@ -44,34 +44,3 @@ By default, the user `webengine` will have access to the admin panel. If you don
 
 You will be able to add, edit and remove users' access once inside the admin panel.
 
-## Other Software
-
-WebEngine 2.0 wouldn't be possible without following awesome open source projects.
-
-* [Hybridauth](https://github.com/hybridauth/hybridauth)
-* [SweetAlert2](https://github.com/limonte/sweetalert2)
-* [CodeMirror](https://github.com/codemirror/CodeMirror)
-* [PHPMailer](https://github.com/PHPMailer/PHPMailer/)
-* [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard)
-* [Bootstrap](https://getbootstrap.com/)
-* [jQuery](http://jquery.com/)
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. 
-
-## Authors
-
-* **Lautaro Angelico** - *Developer*
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## Support
-
-### Official Discord Server
-[WebEngine CMS Official Discord](https://webenginecms.org/discord)
-
-### WebEngine Community Support Forum
-[WebEngine Support Forum](https://forum.webenginecms.org/)
